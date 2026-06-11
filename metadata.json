@@ -1,0 +1,6 @@
+{
+  "name": "Jaipur Aesthetics Clinic",
+  "description": "Premium luxury aesthetic and dermatology clinic in Jaipur, Rajasthan, offering advanced skin, hair, and facial treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
